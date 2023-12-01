@@ -1,2 +1,1 @@
-# Final-project-for-class
-this is final project for class python
+Kasra Arab final project
